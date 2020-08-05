@@ -6,7 +6,7 @@ public class CelciusToFarenheit {
 	public static void main(String[] args) {
 		
 		double Converted_Temp;
-		int Celcius;
+		double Celcius;
 		
 		Scanner scan = new Scanner(System.in);
 		
